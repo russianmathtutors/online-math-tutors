@@ -1,4 +1,4 @@
-# Russian Math Tutors [(https://russianmathtutors.com/image/site-logo/1)](https://github.com/russianmathtutors/online-math-tutors)
+# [Russian Math Tutors](https://github.com/russianmathtutors/online-math-tutors)
 
 ❤️ WIP: This repository will contain open source materials for Russian Math Tutors to be used by both students and teachers ❤️ 
 
